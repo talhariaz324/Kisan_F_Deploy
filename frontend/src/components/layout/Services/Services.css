@@ -1,0 +1,20 @@
+.service-icon {
+  margin-right: 10px;
+}
+
+.service-card {
+  border: 5px solid #097969;
+  border-radius: 20px;
+}
+
+.services-section {
+  /* background-color: ; */
+}
+
+h2 {
+  /* margin-right: 480px; */
+  width: 20vmax;
+  color: #097969;
+  padding-bottom: 6px;
+  border-bottom: 5px solid #097969;
+}

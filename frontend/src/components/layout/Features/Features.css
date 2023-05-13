@@ -1,0 +1,19 @@
+.features-section {
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+}
+
+.features {
+  /* margin-left: 120; */
+  color: #097969;
+  /* padding-bottom: 6px; */
+  border-bottom: 5px solid #097969;
+  width: 15vmax;
+  font-size: 1.8rem;
+}
+/* 
+h1 {
+  margin-left: 400;
+} */

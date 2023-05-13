@@ -1,0 +1,14 @@
+.greetings > p {
+  color: #097969;
+  font-weight: bold;
+  padding: 1rem 1rem;
+  font-size: 1.5rem;
+  /* text-align: center; */
+}
+
+@media screen and (max-width: 600px) {
+  .greetings > p {
+    font-size: 2rem;
+    text-align: center;
+  }
+}
